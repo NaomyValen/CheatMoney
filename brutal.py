@@ -45,9 +45,4 @@ autoketik(f"""
 {putih}[{biru}•{putih}] {merah}Author {merah}   : NaomyValentiano
 {putih}[{hitam}•{hitam}] {abu}GitHub {putih}   : NaomyValen
 {putih}[{biru}•{putih}] {hitam}Dis{biru}cord {putih}  : _naomyvalen18
-{putih}[{biru}•{putih}] {ungu}Instagram {putih}: @_ryyvlnt
-""")
-
-nomor = input(f"{W}[{R}• {kuning}•{hijau}•{W}] {biru}Anda Bersedia? {W}: "))
-
-autoketik(f"{hitam}[{putih}Warning{merah}] {W}Tapi Bohonk");
+{putih}[{biru}•{putih}] {ungu}Instagram {putih}: @_ryy
